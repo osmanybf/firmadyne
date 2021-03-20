@@ -28,7 +28,7 @@
 
 # Introduction
 
-FIRMADYNE is an automated and scalable system for performing emulation and
+Hi FIRMADYNE is an automated and scalable system for performing emulation and
 dynamic analysis of Linux-based embedded firmware. It includes the following
 components:
 
